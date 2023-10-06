@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Paulo-Mansano/Paulo-Mansano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🗺️ Languages: Fluent English & Portuguese, basic Spanish.
+- 🔭 Work with back-end
+- 🌱 Studying java 
+- 📫 Contact: p.mansano@edu.pucrs.br / jupadu2015@gmail.com
+- ⚡ Fun fact: The second language my first programming teacher said me to learn was Shakespeare (SPL), never laughed as much as that day while programming.
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulo-Mansano&show_icons=true&theme=calm) 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Paulo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+          </div>
+          
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
