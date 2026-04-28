@@ -8,7 +8,7 @@ Acredito que o profissional de dados mais valioso é aquele que entende como a i
 
 ---
 
-## 🚀 O que eu faço
+## O que eu faço
 
 * **Desenvolvimento & Arquitetura:** Resolução de problemas complexos no desenvolvimento de software, desde a integração de vídeo em tempo real (RTSP/RTMP), desenvolvimento de sites, até a modelagem rigorosa de bancos de dados para leitura de notas fiscais via OCR.
 * **Pesquisa em IA:** Experiência prática na estruturação, limpeza e interpretação de dados do mundo real provenientes de *smart gadgets*, aplicando Machine Learning para predição e identificação de padrões.
@@ -57,8 +57,9 @@ Projeto de Iniciação Científica (PUCRS) focado em extrair inteligência de di
 
 ## Minhas Estatísticas
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulo-Mansano&show_icons=true&theme=calm) 
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Mansano&layout=compact&theme=tokyonight"/>
 </div>
 
