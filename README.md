@@ -58,10 +58,9 @@ Projeto de Iniciação Científica (PUCRS) focado em extrair inteligência de di
 
 ## Minhas Estatísticas
 
-
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Paulo-Mansano&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Mansano&layout=compact&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Paulo-Mansano&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Mansano&layout=compact&theme=tokyonight" />
 </div>
 
 ---
